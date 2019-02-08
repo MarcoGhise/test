@@ -1,3 +1,7 @@
 Primo file
+<<<<<<< HEAD
 Changed for FIXING
+=======
+A new change on master
+>>>>>>> master
 update to second branch
